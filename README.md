@@ -1,12 +1,12 @@
-How to play Silly Math Game: 
+How To Play Silly Math Game: 
 
 Game Setup
 
-1.Select if you want only positive numbers or a combo of negative and positive numbers
+1. Select if you want only positive numbers or a combo of negative and positive numbers
 
-2.Select the level of difficulty (1-4). Higher level means more digits, for example, level 1 will only produce equations composed of numbers within 1-9. Each level adds more digits (level 2: 1-99, level 3: 1-999, level 4: 1-9999)
+2. Select the level of difficulty (1-4). Higher level means more digits, for example, level 1 will only produce equations composed of numbers within 1-9. Each level adds more digits (level 2: 1-99, level 3: 1-999, level 4: 1-9999)
 
-3.Select what type of operation you want to do (+, -, *, /)
+3. Select what type of operation you want to do (+, -, *, /)
 
 
 How to Play
