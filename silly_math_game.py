@@ -121,7 +121,7 @@ def get_level():
     while True:
         try:
             level_input=int(input("Level of difficulty (1-4): "))
-            if level_input>=0 and level_input<=4:
+            if level_input>=1 and level_input<=4:
                return level_input   
         except ValueError:
             continue
