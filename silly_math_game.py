@@ -149,7 +149,7 @@ def play_again():
 def instructions(prompt):
    if prompt=="I":
       print()
-      print("How to play Silly Math Game: ")
+      print("How To Play 'Silly Math Game' ")
       print()
       print("Game Setup")
       print("1. Select if you want only positive numbers or a combo of negative and positive numbers")
@@ -158,10 +158,11 @@ def instructions(prompt):
       print("3. Select what type of operation you want to do (+, -, *, /)")
       print()
       print("How to Play")
+      print("The purpose of this game is to solve math equations.")
       print("Each question right gives you a point, while a wrong one ends the game.")
       print("If you get a question wrong, 'EEE' will be produced along with the question being asked again.")
       print("You have three chances to answer correctly before the answer is produced and the game ends")
-      print("Your score is how many questions you can answer correctly in a row")
+      print("Your score is how many questions you can answer correctly in a row before ending the game")
       print()
       print("Note: for division, answers are rounded to the nearest whole (no decimals)")
       print()
