@@ -1,4 +1,4 @@
-How To Play Silly Math Game: 
+How To Play 'Silly Math Game': 
 
 Game Setup
 
@@ -11,9 +11,10 @@ Game Setup
 
 How to Play
 
-Each question right gives you a point, while a wrong one ends the game.
+The purpose of this game is to solve math equations. 
+Each question answered correctly gives you a point while answering wrongly ends the game
 If you get a question wrong, 'EEE' will be produced along with the question being asked again.
-You have three chances to answer correctly before the answer is produced and the game ends
-Your score is how many questions you can answer correctly in a row
+You have three chances to answer correctly before the answer is produced and the game ends.
+Your score is how many questions you can answer correctly in a row before ending the game. 
 
-Note: for division, answers are rounded to the nearest whole (no decimals)
+Note: for division, answers are supposed to be rounded to the nearest whole (no decimals).
